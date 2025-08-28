@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: eduardoklosowski.github.io
+Token: 35451e78b55c2872570e980b7f696e867cf059fbf06d34bf1c691426dbb92db0
